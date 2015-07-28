@@ -1,5 +1,14 @@
-sdkjhfasdfja
-asdfjhalksd
-asdlfkjasldk
-asdflkajsdhfla
+\documentclass[12pt]{article}
+
+\begin{document}
+
+\large
+a buncha
+stuff
+
+\begin{equation}
+\sqrt{\pi}
+\end{equation}
+
+\end{document}
 
